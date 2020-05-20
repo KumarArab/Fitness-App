@@ -16,7 +16,7 @@ Installation:
 Installation is same as other repo. so just clone it and 
 debug on any mobile device(android/ios).
 
-![Preview of the app](https://github.com/KumarArab/Fintness-App/blob/master/Group 48.png?raw=true)
+![Preview of the app](https://github.com/KumarArab/Fintness-App/blob/master/group.png?raw=true)
 
 
 
