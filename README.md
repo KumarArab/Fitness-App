@@ -1,4 +1,4 @@
-# Fintness-App
+# Fitness-App
 A cross platform mobile Fitness app.
 
 Recently Hitesh sir (Official Youtube channel: Hitesh Choudhary) challenged us to create a mobile application for a fitness freak.
