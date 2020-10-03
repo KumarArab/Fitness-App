@@ -215,7 +215,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Padding(
                       padding: const EdgeInsets.fromLTRB(20, 30, 0, 10),
                       child: Text(
-                        "Welcome",
+                        "Welcome Folks",
                         style: TextStyle(
                             fontFamily: "Montserrat",
                             fontSize: 40.0,
@@ -259,7 +259,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                   : Color(0xffe9e9ea),
                               onPressed: () => generateRandomList(),
                               child: Text(
-                                " RANDOMIZE ",
+                                " RANDOMIZE Your wokouts ",
                                 style: TextStyle(
                                     color: checkedButton
                                         ? Colors.white
